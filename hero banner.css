@@ -1,0 +1,41 @@
+body{
+    background-color:#16cf91;
+}
+.box
+{     background-color: white;
+    padding:10px;
+    margin: auto;
+    border:1px solidblack;
+    height:40px;
+    width:700px;
+    text-indent:18px;
+    
+}
+.box2
+{
+    font-size: 30px;
+}
+.box3
+{
+    font-size: 10px;
+}
+.box4
+{   
+    position:middle of -ms-page;
+    background-color:rgb(119, 36, 36);
+    padding:10px;
+    margin: auto;
+    border:1px solidblack;
+    height:300px;
+    width:700px;
+    text-indent:18px;
+    color:white;
+}
+.box6
+{
+    margin-top: 200px;
+}
+.swathi
+{
+    word-spacing: 20px;
+}
